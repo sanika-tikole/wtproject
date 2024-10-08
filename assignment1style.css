@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.sidebar {
+    height: 100vh;
+    background-color: #343a40;
+}
+
+.sidebar .nav-link {
+    font-size: 1.1rem;
+    padding: 15px;
+}
+
+.sidebar .nav-link.active {
+    background-color: #495057;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #495057;
+}
+
+.card {
+    min-height: 150px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+.box{
+    height: 348px;
+    width: 800;
+    background-color: aqua;
+    
+}
